@@ -1,0 +1,29 @@
+/* Estilos customizados para o Trade Tracker */
+
+/* Cores para resultados positivos/negativos */
+.positive {
+    color: green;
+}
+
+.negative {
+    color: red;
+}
+
+/* Ajustes para cabeçalhos */
+h1 {
+    color: #2c3e50;
+}
+
+h2, h3 {
+    color: #34495e;
+}
+
+/* Customização de botões */
+.stButton>button {
+    background-color: #3498db;
+    color: white;
+}
+
+.stButton>button:hover {
+    background-color: #2980b9;
+}
